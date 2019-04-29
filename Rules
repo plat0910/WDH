@@ -1,2 +1,3 @@
 - SOURCE-IP-CIDR,10.10.10.5,/32,DIRECT
 - DOMAIN-SUFFIX,github.com,Proxy
+- DOMAIN-SUFFIX,youtube.com,Proxy
